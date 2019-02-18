@@ -3,7 +3,9 @@
     "demo": "node hello.js"
   },
   "dependencies": {
-    "lodash": "^3.10.1",
-    "~core": "../core"
+    "lodash": "latest"
+  },
+  "peerDependencies": {
+    "lodash": "latest"
   }
 }
