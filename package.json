@@ -1,11 +1,11 @@
 {
-    "scripts": {
-        "start": "node hello.js"
-    },
-    "dependencies": {
-        "lodash": "latest"
-    },
-    "peerDependencies": {
-        "lodash": "latest"
-    }
+  "scripts": {
+    "start": "node hello.js"
+  },
+  "dependencies": {
+    "lodash": "latest"
+  },
+  "peerDependencies": {
+    "lodash": "latest"
+  }
 }
